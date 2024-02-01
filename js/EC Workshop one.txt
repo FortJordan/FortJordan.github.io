@@ -1,0 +1,11 @@
+CREATE TABLE Mcc_Students (
+	ID_Num int,
+	FNAME varchar(30),
+	LNAME varchar(30),
+	STREET varchar(75),
+	CITY varchar(75),
+	ZIP int,
+	AREACODE int,
+	PHONENUMBER int,
+	EMAIL varchar(100),
+	);
